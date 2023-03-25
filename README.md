@@ -16,7 +16,7 @@ Take this Flutter courses and:
 
 Flutter: applying constraints and implementing responsive layouts
 
-![Animated GIF demonstrating project features]()
+![Animated GIF demonstrating project features]("https://github.com/BrunaMello/alura_flutter-applying_contraints_and_responsive_layouts/blob/main/landscape.gif")
 ![Animated GIF demonstrating project features]()
 
 
