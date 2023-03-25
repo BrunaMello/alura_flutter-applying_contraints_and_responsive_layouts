@@ -1,16 +1,27 @@
-# panucci_ristorante
+<h1>Flutter: applying constraints and implementing responsive layouts</h1>
 
-A new Flutter project.
 
-## Getting Started
+Take this Flutter courses and:
 
-This project is a starting point for a Flutter application.
+- Delimitate the size of widgets with constraints and understand the importance of this
+- Build suitable layouts with correct sizes with Constraints
+- Implement four screens in a practical food delivery project
+- Implement different types of product list
+- Make a responsive app that works in vertical and horizontal directions
+- Capture device size and orientation with Media.Query
+- Understand and use CustomScrollView, Slivers, and classes as Media.Query widgets
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🔨 Project: Panucci Ristorante
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter: applying constraints and implementing responsive layouts
+
+![Animated GIF demonstrating project features]()
+![Animated GIF demonstrating project features]()
+
+
+Certificate: 'https://cursos.alura.com.br/certificate/0bbbf20e-ec36-45ee-9329-cebd738c9d9d'
+
+<img src="cert.png" alt="certificate">
+
+
